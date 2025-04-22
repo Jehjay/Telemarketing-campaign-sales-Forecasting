@@ -11,3 +11,5 @@ calculated the expected sales forecast of future campaign sales from customer pu
 model at <i>100% accuracy</i>.
 
 
+## **Developer**
+[Jehoram Mwila](https://www.linkedin.com/in/jehoram-m-1b1772124/), Data and MLOps Engineer
